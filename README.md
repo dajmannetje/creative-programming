@@ -29,6 +29,7 @@ Studentnumber: 20212322
 
 
 
- 
+![Technology and Realization](https://user-images.githubusercontent.com/62105727/175270373-2c5a2e5e-7f80-4663-9feb-da05b9c18094.jpg)
+
 
 
